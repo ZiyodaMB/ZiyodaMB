@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI!+My+name+is+Ziyoda+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&color=%23E5E5E5;I'm+SDET!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI!+My+name+is+Ziyoda+%F0%9F%91%A9%F0%9F%8F%BB%F0%9F%92%BB&color=%23333333;I'm+SDET!;&color=%23010101;cursorColor=%23E5A63D&fontSize=18&fontFamily=Consolas)](https://git.io/typing-svg)
+
 
 
 
