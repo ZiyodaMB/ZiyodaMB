@@ -16,3 +16,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+## Skills
+
+- Programming Languages: Java, Python, JavaScript, Ruby
+- Test Automation Frameworks: Selenium, Appium, JUnit, TestNG
+- Continuous Integration/Deployment: 
+  - <i class="fab fa-jenkins"></i> Jenkins
+  - <i class="fab fa-circleci"></i> CircleCI
+  - <i class="fab fa-travis"></i> Travis CI
+- Databases: SQL, MySQL, MongoDB
+- Tools: 
+  - <i class="fab fa-git"></i> Git
+  - <i class="fab fa-jira"></i> Jira
+  - <i class="fab fa-confluence"></i> Confluence
+  - <i class="fab fa-slack"></i> Slack
+- Agile Methodologies: Scrum, Kanban
