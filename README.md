@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI!+My+name+is+Ziyoda!;I'm+SDET+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Being+an+SDET+is+not+just+a+job,;but+a+passion+that+allows+me+to+help+ensure+the+quality+and+usability+of+software+products;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI!+My+name+is+Ziyoda!;I'm+SDET+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;)](https://git.io/typing-svg)
 
 
 
